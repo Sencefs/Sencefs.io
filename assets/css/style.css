@@ -1,0 +1,120 @@
+@import "~bootswatch/dist/vapor/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/vapor/bootswatch";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*Start of Full Body Section Styling */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+/*Start of Footer Section Styling */
+footer {
+  padding: 40px 35px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
+footer h2 {
+  font-size: 30px;
+  margin: 0;
+}
+/*"About Me" and "Contact Me" Sections Titles' Styling */
+section {
+  padding: 60px;
+}
+.content img:hover {
+  opacity: 0.5;
+}
+.smaller .img-text {
+  width: 10vw;
+}
+.content ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding: 10px;
+}
+.content ul li {
+  padding: 10px;
+}
+.content ul li a {
+  padding: 10px 15px;
+  font-weight: lighter;
+  font-size: 1.8vw;
+  list-style: none;
+  text-decoration: none;
+}
+.content ul li:hover {
+  border: 2px solid;
+}
+.bio {
+  font-size: x-large;
+}
+.work {
+  width: 100%;
+}
+.small-work {
+  width: 45%;
+  margin: 0.6%;
+  padding: 0px;
+}
+.card-body {
+  width: 100%;
+}
+.card-text {
+  width: 100%;
+}
+h2 {
+  font-size: 40px;
+}
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  header {
+      padding-bottom: 0;
+      justify-content: center;
+      position: relative;
+  }
+  header h1 {
+      width: 100%;
+      text-align: center;
+  }
+  header nav ul {
+      margin-top: 20px;
+      width: 100%;
+      justify-content: center;
+  }
+  header nav ul li a {
+      font-size: 20px;
+  }
+  footer h2, footer div {
+      text-align: center;
+      width: 100%;
+  }
+  .section-title {
+      width: 20%;
+  }
+}
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+  section {
+    padding: 30px 15px;
+  }
+}
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+  .section-title {
+    width: 95%;
+  }
+  .section p {
+    width: 100%;
+  }
+}
+
+
+

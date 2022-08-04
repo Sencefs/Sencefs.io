@@ -1,6 +1,10 @@
 # 02 Advanced CSS: Portfolio
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: at many companies, having several deployed projects is a minimum requirement to receive an initial interview. 
+Digital resumes bring users not only a new system but also a kind of courage to break the tradition - who said the resume should be dead and dull? Only a resume that can show your own personality is the ideal resume.
+
+When it comes to convenience, a digital resume has a definite advantage in this regard: it is not easily lost and can be changed at any time. Even two minutes before the interview, if you suddenly remember a strength about yourself, a digital resume allows you to change it immediately on the website without any delay, and you will always have the digital resume record, so you won't have to worry about losing it unintentionally as you do with paper resumes. You don't have to worry about whether or not your resume will be left behind.
+
+The digital resume is a complete rule-breaker, it has completely surpassed the limitations of the paper resume, forming a new system - not easy to lose, not rigid, as long as you have a computer around you can make changes to the content of the resume at any time. The most important thing is that it provides users with more freedom to create their own resume, through a variety of modes, allowing them to create their own unique resume.
 
 ## User Story
 
